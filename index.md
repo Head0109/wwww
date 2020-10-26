@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Head0109/wwww/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+form01
+<form action="https://www.pinkoi.com/browse" method="GET">
+<input type="text"name="category">
+<input type="submit"value="git方法的表單">
+</form>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+form02
+<form action="https://www.pinkoi.com/browse" method="get">
+<select name="category">
+<option value="0">衣著良品</option>
+<option value="1">包包提袋</option>
+<option value="=2">配件飾品</option>
+<option value="=3">文具卡片</option>
+<option value="4">媽咪寶寶</option>
+<option value="5">居家生活</option>
+</select>
+<input type="submit"value="下拉搜尋">
+</form>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+form03
+<form action="https://www.pinkoi.com/search"
+method="get">
+<input type="text"name="key">
+<input type="hidden"name="q"value="服飾">
+<input type="submit"value="衣著良品">
+</form>
 
-# Header 1
-## Header 2
-### Header 3
+<br>
+<h1>form04</h1>
 
-- Bulleted
-- List
+<form action=""
+method="get">
+<input type="text"name="username"placeholder="請輸入姓名"required 
+autofocus></p>
+<input type="tel" name="tel"placeholder="請輸入手機"></p>
+<input type="url" placeholder="http://it-life-wyx.blogspot.tw/"></p>
 
-1. Numbered
-2. List
+</form>
 
-**Bold** and _Italic_ and `Code` text
+<br>
+form05
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Head0109/wwww/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<form action=""
+method="get">
+<input type="date"name="date"</p>
+<input type="url"name="url"></p>
+<input type="color"name="color"></p>
+<br>
+<br>
