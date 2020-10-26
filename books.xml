@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
+<books>
+<heading>文創書房</heading>
+<book>
+<title>日本之旅</title>
+<author>蔡惠容</author>
+<publisher>聯大出版社</publisher>
+<price>$320</price>
+</book>
+<book>
+<title>大阪之旅</title>
+<author>蔡惠容</author>
+<publisher>聯大出版社</publisher>
+<price>$380</price>
+</book>
+</books>
