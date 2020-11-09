@@ -19,11 +19,11 @@ h1 {
     text-align: center;
 }
 .navigation ul li {
-    list-style-type: none;
-    display: inline;
+    list-style-type: none; 
+    display: inline; 
     margin: 0 8px;
 }
-.navigation ul li a {
+.navigation ul li a { 
     color: #ffffff;
     text-decoration: none;
 }
@@ -92,7 +92,7 @@ th,td {
     padding: 16px;
 }
 th {
-    background-color:Bisque;
+    background-color:Bisque; 
 }
 
 /* 作品集 */
@@ -128,6 +128,5 @@ th {
 ol li {
     list-style-type: upper-roman;
 }
-
 
 
